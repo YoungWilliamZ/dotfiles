@@ -84,7 +84,7 @@ brew install ack
 brew install git
 brew install git-lfs
 # brew install gs
-brew install imagemagick --with-webp
+# brew install imagemagick --with-webp
 # brew install lua
 # brew install lynx
 # brew install p7zip
@@ -96,6 +96,9 @@ brew install imagemagick --with-webp
 brew install tree
 # brew install vbindiff
 # brew install zopfli
+
+# install dev
+brew install go
 
 # Remove outdated versions from the cellar.
 brew cleanup
